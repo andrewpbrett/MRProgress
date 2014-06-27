@@ -17,7 +17,7 @@
 
 
 const CGFloat MRProgressOverlayViewCornerRadius = 7;
-const CGFloat MRProgressOverlayViewMotionEffectExtent = 10;
+const CGFloat MRProgressOverlayViewMotionEffectExtent = 0;
 
 
 @interface MRProgressOverlayView () {
